@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "NewwaySo\PhoneNumberFormatter\\PhoneNumberFormatterServiceProvider"
+                "NewwaySo\\PhoneNumberFormatter\\PhoneNumberFormatterServiceProvider"
             ],
             "aliases": {
                 "PhoneFormatter": "NewwaySo\\PhoneNumberFormatter\\Facades\\PhoneNumberFormatter"
