@@ -299,7 +299,7 @@ Please see [CHANGELOG.md](CHANGELOG.md) for more information on what has changed
 
 ## License
 
-The Laravel Phone Number Formatter package is open-sourced software licensed under the [MIT license](LICENSE).
+The Laravel Phone Number Formatter package is open-sourced software licensed under the [MIT license](LICENSE.md).
 
 ## Author
 
