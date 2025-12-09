@@ -1,5 +1,5 @@
 <?php
-namespace NewwayMyanmar\PhoneNumberFormatter;
+namespace NewwaySo\PhoneNumberFormatter;
 
 use Illuminate\Support\ServiceProvider;
 

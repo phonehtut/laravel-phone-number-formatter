@@ -1,5 +1,5 @@
 <?php
-namespace NewwayMyanmar\PhoneNumberFormatter\Facades;
+namespace NewwaySo\PhoneNumberFormatter\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

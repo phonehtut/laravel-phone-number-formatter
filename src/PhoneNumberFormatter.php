@@ -1,5 +1,5 @@
 <?php
-namespace NewwayMyanmar\PhoneNumberFormatter;
+namespace NewwaySo\PhoneNumberFormatter;
 
 class PhoneNumberFormatter
 {

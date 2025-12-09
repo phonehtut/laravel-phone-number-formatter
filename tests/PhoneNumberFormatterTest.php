@@ -1,6 +1,6 @@
 <?php
 
-use NewwayMyanmar\PhoneNumberFormatter\PhoneNumberFormatter;
+use NewwaySo\PhoneNumberFormatter\PhoneNumberFormatter;
 
 it('formats Myanmar number', function() {
     $formatter = new PhoneNumberFormatter();
