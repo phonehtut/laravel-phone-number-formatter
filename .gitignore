@@ -1,0 +1,29 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.phpunit.result.cache
+coverage/
+.phpunit.cache
+
+# Composer
+composer.lock
+
+# Laravel
+.env
+.env.backup
+.phpstorm.meta.php
+_ide_helper.php
+
